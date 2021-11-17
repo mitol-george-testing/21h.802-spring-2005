@@ -1,0 +1,41 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "Latin American History"
+    ],
+    [
+      "Society",
+      "Latin and Caribbean Studies"
+    ],
+    [
+      "Humanities",
+      "History",
+      "Modern History"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "fb803609-b896-c081-b3cb-f27d9ef3ed9d"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Modern Latin America, 1808-Present: Revolution, Dictatorship, Democracy",
+  "course_description": "This class is a selective survey of Latin American history from the beginning of the twentieth century to the present.\u00a0Issues studied include Latin America in the global economy, relations between Latin America and the U.S., dictatorships and democracies in the twentieth century, African and Indigenous cultures, feminism and gender, cultural politics, revolution in Mexico, Cuba, and Central America, and Latin American identity.\n",
+  "department_numbers": [
+    "21H"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21H.802",
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "title": "Course Metadata"
+}
